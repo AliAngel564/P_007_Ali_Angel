@@ -2,7 +2,7 @@
 Amerike University
 Author: Ali Angel
 Work #: 7
-Date: 02/04/2025
+Date: 04/03/2025
 Description: This program will ask the user to input a number between 5 and 15 and not allow an incorrect answer, it will then ask for
 a name with less than 10 letters and a number divisible by 7
 */
